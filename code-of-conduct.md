@@ -19,7 +19,7 @@ Harassment includes, but is not limited to:
 
 * Violent threats, intimidation or personal insults directed against
 another person
-* Verbal, graphic or written comments related to gender, sexual
+* Verbal, graphic or written comments related to gender, gender identity, sexual
 orientation, disability, physical appearance, body size, race or
 religion
 * Posting sexually explicit or violent material
