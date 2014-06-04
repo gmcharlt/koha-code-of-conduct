@@ -7,7 +7,7 @@ enforce this code throughout the event.
 ## The Quick Version
 
 Koha event organisers are dedicated to providing a harassment-free
-experience for everyone, regardless of gender, sexual orientation,
+experience for everyone, regardless of gender, gender identity, sexual orientation,
 disability, physical appearance, body size, race, or religion. We do
 not tolerate harassment of event participants in any form. Sexual
 language and imagery is not appropriate for any event venue, including
